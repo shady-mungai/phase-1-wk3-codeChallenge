@@ -1,0 +1,26 @@
+#firstMovieImage {
+width: 375px;
+height: auto;
+max-height: 400px;
+
+}
+#displayMenu{
+    text-align: right;
+    top: 2000px;
+    float: right;
+}
+#displayMovie{
+    background-color: blueviolet;
+}
+#One ,#Two {
+    display: inline-block;
+    margin: 3em;
+}
+#list{
+    margin: 0.5em;
+}
+button{
+    background-color:green;
+    width: 70px;
+    height: 70px;
+}
